@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saauravh
 - 👀 I’m interested in learning everything I don't know yet
-- 🌱 I’m currently learning Web Development( confused between django and java going on and off between those two)
+- 🌱 I’m currently learning Web Development using MERN. 
 - 💞️ I’m looking to meet new people from whom I can learn a lot of things and talk about different kinds of stuff.
       Other than coding I also love to write poetry and other stuff, I enjoy reading.
 - 📫 How to reach me ...
